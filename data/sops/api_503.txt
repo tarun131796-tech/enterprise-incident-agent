@@ -1,0 +1,4 @@
+If API returns 503:
+1. Check deployment status
+2. Check upstream dependencies
+3. Rollback if needed
